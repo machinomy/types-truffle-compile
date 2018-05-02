@@ -2,12 +2,6 @@
 # yarn lockfile v1
 
 
-"@machinomy/types-truffle-compile@https://github.com/machinomy/types-truffle-compile":
-  version "0.0.1"
-  resolved "https://github.com/machinomy/types-truffle-compile#972cbdabf50342142631f3a10ae5b8b8b283fbb8"
-  dependencies:
-    "@machinomy/types-truffle-compile" "https://github.com/machinomy/types-truffle-compile"
-
 ansi-regex@^2.0.0:
   version "2.1.1"
   resolved "https://registry.yarnpkg.com/ansi-regex/-/ansi-regex-2.1.1.tgz#c3b33ab5ee360d86e0e628f0468ae7ef27d654df"
